@@ -1,0 +1,6 @@
+On your computer, move the file you'd like to upload to GitHub into the local directory that was created when you cloned the repository.
+Open Git Bash.
+
+Change the current working directory to your local repository.
+
+Stage the file for commit to your local repository.
